@@ -18,4 +18,4 @@ Try searching for 'ip' in browser to check if the ip is correct,
 should be the same as the one for the AWS instance.
 
 If you've setup the Kubernetes Dashboard UI you can access it at:
-127.0.0.1:<port set in UI setup>
+127.0.0.1:(port set in UI setup)
