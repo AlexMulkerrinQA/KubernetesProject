@@ -13,3 +13,9 @@ goto Settings->Advanced->Network->Connection
 click settings and set 'Manual proxy configuration:'
 Enter 'SOCKS Host:' as localhost on the port you configured PuTTY as.
 (Might need to remove line about 'localhost' in 'No Proxy for' box)
+
+Try searching for 'ip' in browser to check if the ip is correct,
+should be the same as the one for the AWS instance.
+
+If you've setup the Kubernetes Dashboard UI you can access it at:
+127.0.0.1:<port set in UI setup>
